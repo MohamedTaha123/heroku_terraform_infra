@@ -19,7 +19,7 @@ $ export HEROKU_API_KEY=<TOKEN> HEROKU_EMAIL=<EMAIL>
 
 To check if your token is well created, you can check with :
 ```
-heroku authorizations
+$ heroku authorizations
 ```
 ##  Initialization
 ```
